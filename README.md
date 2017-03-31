@@ -4,7 +4,7 @@
 A light-weight library for rendering watch faces in OpenGL, with support for Bitmap/Canvas. Plus, a cool example watch face! 
 
 ## Why use it? 
-Watch faces that demand very performant or complex rendering can leverage the power of the entire graphics pipeline without sacrificing the simplicity of working with Bitmaps and the Canvas API. 
+Watch faces that demand very performant or complex rendering can leverage the power of the entire graphics pipeline without sacrificing the simplicity of working with Bitmaps and the Canvas API. Have power when you need it -- e.g. custom shaders to modify a Bitmap, GPU-accelerated transformations, access to more texture formats, etc.
 
 ## License
 This software is licensed under the following:
