@@ -1,9 +1,10 @@
 # GL 2D Watch Face
 
 ## What is it? 
-A light-weight library to manage and render Bitmaps in OpenGL on a watch face. 
+A light-weight library for rendering watch faces in OpenGL, with support for Bitmap/Canvas. Plus, a cool example watch face! 
 
-Plus, a cool example watch face! 
+## Why use it? 
+Watch faces that demand very performant or complex rendering can leverage the power of the entire graphics pipeline without sacrificing the simplicity of working with Bitmaps and the Canvas API. 
 
 ## License
 This software is licensed under the following:
