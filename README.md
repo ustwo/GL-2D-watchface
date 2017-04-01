@@ -3,7 +3,7 @@
 ## What is it? 
 A light-weight library for rendering watch faces in OpenGL, with support for Bitmap/Canvas. Plus, a cool example watch face! 
 
-![example watch face](https://www.reddit.com/r/AndroidWear/comments/62m7te/dev_my_lightweight_library_for_rendering_watch/?st=J0YOOFWD&sh=0cd14f5a)
+![example watch face](https://raw.githubusercontent.com/ustwo/GL-2D-watchface/b100c15154b5b5e8d9ebbb381f47a67b5d7b399c/app/src/main/res/drawable-nodpi/preview_analog.png)
 
 ## Why use it? 
 Watch faces that demand very performant or complex rendering can leverage the power of the entire graphics pipeline without sacrificing the simplicity of working with Bitmaps and the Canvas API. Have power when you need it -- e.g. custom shaders to modify a Bitmap, GPU-accelerated transformations, access to more texture formats, etc.
